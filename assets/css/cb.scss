@@ -33,11 +33,4 @@ $theme-colors: map-merge(
 @import "base", "pages", "custom";
 
 #please have table boaders
-table {
-  border-collapse: collapse;
-}
-
-table, th, td {
-  border: 1px solid black;
-}
 
