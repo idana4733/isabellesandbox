@@ -15,10 +15,11 @@ credits: true
 ## About the Collection
 
 This is a table:
-|Thing|First|Second|Third|
-|-------|-------|-------|-------|
-|Fruit|Apple|Bannana|Pear|
-|Tree|Oak|Spruce|Ginkgo|
+| Thing | First | Second  | Third  |
+|-------|-------|---------|--------|
+| Fruit | Apple | Bannana | Pear   |
+| Tree  | Oak   | Spruce  | Ginkgo |
+
 
 | Thing | First | Second  | Third  |
 |-------|-------|---------|--------|
