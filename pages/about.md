@@ -20,6 +20,12 @@ This is a table:
 |Fruit|Apple|Bannana|Pear|
 |Tree|Oak|Spruce|Ginkgo|
 
+| Thing | First | Second  | Third  |
+|-------|-------|---------|--------|
+| Fruit | Apple | Banana  | Pear   |
+| Tree  | Oak   | Spruce  | Ginkgo |
+
+
 
 <table class="table" markdown="1">
   <thead>
