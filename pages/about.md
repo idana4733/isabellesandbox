@@ -25,6 +25,13 @@ This is a table:
 | Fruit | Apple | Banana  | Pear   |
 | Tree  | Oak   | Spruce  | Ginkgo |
 
+|First|Second|
+|-----|-----|
+|a|
+<ul>
+  <li>abc</li>
+  <li>def</li>
+</ul>|
 
 
 <table class="table" markdown="1">
