@@ -27,7 +27,7 @@ This is a table:
 | Tree  | Oak   | Spruce  | Ginkgo |
 
 |First|Second|
-|-----|-----|
+|-----|------|
 |a|
 <ul>
   <li>abc</li>
@@ -54,7 +54,12 @@ This is a table:
     <tr>
       <th scope="row">2</th>
       <td>Jacob</td>
-      <td>Thornton</td>
+      <td>
+        <ul>
+            <li>abc</li>
+            <li>def</li>
+        </ul>
+      </td>
       <td>@fat</td>
     </tr>
     <tr>
